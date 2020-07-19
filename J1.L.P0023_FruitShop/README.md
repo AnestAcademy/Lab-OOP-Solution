@@ -3,4 +3,4 @@
 
 ## Issue
 
-- Khi `quantity = 0` sẽ hiện message là _Only choice [1 - 0]_ => Không hợp lý, cần sửa lại.
+- Khi `quantity = 0` sẽ hiện message là _*Only choice [1 - 0]*_ => Không hợp lý, cần sửa lại.
