@@ -14,7 +14,7 @@ public class FruitShopSystem {
 
         // load data from mock data
         FruitBo fruitBo = new FruitBo(Data.listFruit);
-        OrderBo orderBo = new OrderBo(Data.listOrder, new ArrayList<>());
+        OrderBo orderBo = new OrderBo(Data.listOrder);
 
         boolean flag = true;
         do {
